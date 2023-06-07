@@ -21,7 +21,9 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
             dep = new Personeel(listBox1);
+
         }
 
         private void button1_Click(object sender, EventArgs e)
